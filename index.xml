@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ansh&#39;s Blog</title>
-    <link>https://Ansh-patel-ML.github.io/blog/</link>
+    <link>http://ansh-patel-ml.github.io/blog/</link>
     <description>Recent content on Ansh&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 May 2022 10:05:07 +0530</lastBuildDate><atom:link href="https://Ansh-patel-ML.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 10:05:07 +0530</lastBuildDate><atom:link href="http://ansh-patel-ml.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fifth</title>
-      <link>https://Ansh-patel-ML.github.io/blog/posts/five/</link>
+      <link>http://ansh-patel-ml.github.io/blog/posts/five/</link>
       <pubDate>Tue, 10 May 2022 10:05:07 +0530</pubDate>
       
-      <guid>https://Ansh-patel-ML.github.io/blog/posts/five/</guid>
+      <guid>http://ansh-patel-ml.github.io/blog/posts/five/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://Ansh-patel-ML.github.io/blog/posts/first/</link>
+      <link>http://ansh-patel-ml.github.io/blog/posts/first/</link>
       <pubDate>Tue, 10 May 2022 10:05:07 +0530</pubDate>
       
-      <guid>https://Ansh-patel-ML.github.io/blog/posts/first/</guid>
+      <guid>http://ansh-patel-ml.github.io/blog/posts/first/</guid>
       <description>hi there how are you ?</description>
     </item>
     
     <item>
       <title>Fourth</title>
-      <link>https://Ansh-patel-ML.github.io/blog/posts/fourth/</link>
+      <link>http://ansh-patel-ml.github.io/blog/posts/fourth/</link>
       <pubDate>Tue, 10 May 2022 10:05:07 +0530</pubDate>
       
-      <guid>https://Ansh-patel-ML.github.io/blog/posts/fourth/</guid>
+      <guid>http://ansh-patel-ml.github.io/blog/posts/fourth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sixth</title>
-      <link>https://Ansh-patel-ML.github.io/blog/posts/sixth/</link>
+      <link>http://ansh-patel-ml.github.io/blog/posts/sixth/</link>
       <pubDate>Tue, 10 May 2022 10:05:07 +0530</pubDate>
       
-      <guid>https://Ansh-patel-ML.github.io/blog/posts/sixth/</guid>
+      <guid>http://ansh-patel-ml.github.io/blog/posts/sixth/</guid>
       <description>hi there how are you ?</description>
     </item>
     
     <item>
       <title>third</title>
-      <link>https://Ansh-patel-ML.github.io/blog/posts/third/</link>
+      <link>http://ansh-patel-ml.github.io/blog/posts/third/</link>
       <pubDate>Tue, 10 May 2022 10:05:07 +0530</pubDate>
       
-      <guid>https://Ansh-patel-ML.github.io/blog/posts/third/</guid>
+      <guid>http://ansh-patel-ml.github.io/blog/posts/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://Ansh-patel-ML.github.io/blog/second/</link>
+      <link>http://ansh-patel-ml.github.io/blog/second/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://Ansh-patel-ML.github.io/blog/second/</guid>
+      <guid>http://ansh-patel-ml.github.io/blog/second/</guid>
       <description>Desc Text.</description>
     </item>
     
