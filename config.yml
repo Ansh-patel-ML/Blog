@@ -1,4 +1,4 @@
-baseURL: "https://Ansh-patel-ML.github.io/blog"
+baseURL: "http://ansh-patel-ml.github.io/blog/"
 title: Ansh's Blog
 paginate: 6
 theme: PaperMod
